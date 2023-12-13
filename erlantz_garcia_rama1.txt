@@ -1,10 +1,4 @@
 Primera linea en rama1
-<<<<<<< HEAD
 Segunda linea nueva en rama
 Tercera linea nueva en rama
 Cuarta linea nueva en rama
-=======
-Segunda linea nueva
-Tercera linea nueva
-Cuarta linea nueva
->>>>>>> erlantz_garcia_rama
